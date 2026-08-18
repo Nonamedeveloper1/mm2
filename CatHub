@@ -1,4 +1,3 @@
--- Protected by Mnx Obfuscator | Public Enemy
 local jIc7RfIpR_kxs2sjCX=math.floor(5)
 local mZUR0vNC5s_wDvGE=tostring(13)
 local nFl6eR_2cgPNDUiETN=math.floor(7)
@@ -106,5 +105,5 @@ local xgftg4Eq8oFeW35,yVUH_jMjJax4=loadstring(cdice79Gv_prbTqP23)
 if xgftg4Eq8oFeW35 then
   xgftg4Eq8oFeW35()
 else
-  error("Mnx | Public Enemy : "..tostring(yVUH_jMjJax4))
+  error("Cucaracha : "..tostring(yVUH_jMjJax4))
 end
